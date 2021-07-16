@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "It’s important to have a high-quality README for an app that describes what the app is, how to use the app, how to install it, how to report issues, and how to make contributions. Use this app to quickly and easily create a README file so that you can focus more time on the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avidrunner87/readme-generator.git"
+  },
+  "keywords": [
+    "command-line",
+    "javascript"
+  ],
+  "author": "avidrunner87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avidrunner87/readme-generator/issues"
+  },
+  "homepage": "https://github.com/avidrunner87/readme-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2"
+  }
+}
