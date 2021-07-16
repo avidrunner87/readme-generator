@@ -1,32 +1,17 @@
-# data.title
-
-## Table of Contents
-1. [Description](#description)
-1. [Usage](#usage)
-1. [User Story](#user-story)
-1. [Acceptance Criteria](#acceptance-criteria)
-1. [Licenses](#licenses)
-1. [Technology](#technology)
-1. [Mock-up](#mock-up)
-1. [Support](#support)
-   - [Installation](#installation)
-   - [Reporting Issues](#reporting-issues)
-   - [Making Contributions](#making-contributions)
-1. [References](#references)
-1. [Inspiration](#inspiration)
+# weather-application
 
 ## Description
-data.description
+Looks at the weather
 
 ## Usage
-You can access the app here: [data.appURL](data.appURL).
+You can access the app here: [https://google.com](https://google.com).
 
 ## User Story
 **AS A(N)** user<br>
 I **WANT** do something<br>
 **SO THAT** get some value
 
-## Acceptance Criteria
+### Acceptance Criteria
 **GIVEN** something
 
 >WHEN x<br>
@@ -51,8 +36,8 @@ The following picture shows the website appearance and capabilities:
 <img src="./assets/images/screenshots/screenshot02.png" width="300"><br>
 <img src="./assets/images/screenshots/screenshot03.png" width="300">
 
-## Support
-### Installation
+
+## Installation
 To fork this code to further improve the website, please follow these directions:
 
 1. In Github fork the repository.
@@ -60,23 +45,8 @@ To fork this code to further improve the website, please follow these directions
 
 _This assumes that you have setup your own SSH keys to connect with Github._
 
-### Reporting Issues
-
-
-### Making Contributions
-
 ## References
-```
-Please update to include references to websites and other sources of information used to build the application.
-
-For example:
-
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-[W3 Schools](https://www.w3schools.com/)
-```
-
-## Inspiration
-```
-Please list out any sources that provided inspiration for the application.
-```
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)<br>
+[W3 Schools](https://www.w3schools.com/)<br>
+[jQuery](https://jquery.com)<br>
+[jQueryUI](https://jqueryui.com)
