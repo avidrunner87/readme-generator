@@ -4,6 +4,8 @@
   "description": "It’s important to have a high-quality README for an app that describes what the app is, how to use the app, how to install it, how to report issues, and how to make contributions. Use this app to quickly and easily create a README file so that you can focus more time on the project.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "open": "code ./outputs/README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,7 +23,9 @@
   },
   "homepage": "https://github.com/avidrunner87/readme-generator#readme",
   "dependencies": {
+    "@inquirer/confirm": "0.0.15-alpha.0",
     "fs": "0.0.1-security",
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.1.2",
+    "path": "^0.12.7"
   }
 }
