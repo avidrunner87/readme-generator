@@ -62,6 +62,10 @@ The following picture shows the website appearance and capabilities:
 <img src="./assets/images/screenshots/screenshot01.png" width="300">
 <img src="./assets/images/screenshots/screenshot02.png" width="300">
 
+We also have a video that walks you through the entire application:
+
+[Access Video](https://github.com/avidrunner87/readme-generator/blob/main/assets/images/screenshots/walkthrough.mp4)
+
 ## Support
 ### Installation
 To fork this code to further improve the website, please follow these directions:
